@@ -1,5 +1,10 @@
 # Getting Started with Create React App
 
+redux is user in this project for the state management,
+redux persist is used for the persistancy of state , so that state will persist on refresh
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
